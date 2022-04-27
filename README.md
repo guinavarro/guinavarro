@@ -1,9 +1,5 @@
-# 
-  
      - 👨🏻‍💻 Full Stack Developer
      - 🧗🏻 Studying Software Analysis and Development
-#
-
 <a href="https://linkedin.com/in/adsguilhermenavarro" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-guilhermenavarro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
@@ -11,5 +7,5 @@
  <img align="center" src="https://img.shields.io/badge/-guilhermenavarro-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
-
+<br>
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guinavarro&show_icons=true&locale=en&layout=compact" alt="guinavarro"/></p>
