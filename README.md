@@ -1,5 +1,5 @@
-## I'm Guilherme Navarro
-- 👨🏻‍💻 Full Stack Develope
+## About me
+- 👨🏻‍💻 Full Stack Developer
 - 🧗🏻 Studying Software Analysis and Development
      
 ## Social Links
