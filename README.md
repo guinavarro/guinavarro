@@ -1,6 +1,6 @@
 ## About me
 - 👨🏻‍💻 Backend Developer
-- 🧗🏻 Studying Software Analysis and Development
+- 🧗🏻 Systems Analysis and Development
      
 ## Social Links
 <a href="https://linkedin.com/in/adsguilhermenavarro" target="_blank">
