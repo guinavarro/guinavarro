@@ -1,5 +1,5 @@
 ## About me
-- 👨🏻‍💻 Full Stack Developer
+- 👨🏻‍💻 Backend Developer
 - 🧗🏻 Studying Software Analysis and Development
      
 ## Social Links
