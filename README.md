@@ -1,6 +1,5 @@
 ## About me
-- 👨🏻‍💻 Backend Developer
-- 🧗🏻 Systems Analysis and Development
+- I'm a fullstack developer focusing on improving myself as a backend developer within the .NET environment (which is my current stack at my job). Now I'm studying frontend reactive frameworks like VueJS. Maybe you will see these technologies here in the near future: Ruby, C++, and Flutter. (i have a lot of curiosity to learn them)
      
 ## Social Links
 <a href="https://linkedin.com/in/adsguilhermenavarro" target="_blank">
